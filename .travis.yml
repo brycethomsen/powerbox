@@ -1,0 +1,10 @@
+sudo: required
+
+notifications:
+  email: false
+
+services:
+  - docker
+
+script:
+  - docker run -it -v $PWD:/sketch brycethomsen/arduino-ci
