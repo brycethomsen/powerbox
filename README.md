@@ -1,4 +1,5 @@
 # Powerbox
+[![Build Status](https://travis-ci.org/brycethomsen/powerbox.svg?branch=master)](https://travis-ci.org/brycethomsen/powerbox)
 
 Eight individual MQTT controlled AC outlets via "Lolin" ESP8266
 
@@ -8,7 +9,6 @@ Eight individual MQTT controlled AC outlets via "Lolin" ESP8266
 1. Weatherproof Enclosure
 1. 4-Outlet Cover x2
 1. Oulets x4
-1. 
 
 ## Configuration:
 
