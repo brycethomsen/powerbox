@@ -7,4 +7,4 @@ services:
   - docker
 
 script:
-  - docker run -it -v $PWD:/sketch brycethomsen/arduino-ci
+  - docker run --rm -v $PWD:/sketch brycethomsen/arduino-ci
