@@ -20,4 +20,4 @@ Eight individual MQTT controlled AC outlets via "Lolin" ESP8266
 
 ## Wiring:
 
-![wirig](diagram/powerbox-wiring.png)
+![wiring](diagram/powerbox-wiring.png)
